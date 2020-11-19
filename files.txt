@@ -1,0 +1,1 @@
+Microsoft uses industry standard _______________ dynamic routing protocol to exchange routes between your on-premises network, your instances in Azure, and Microsoft public addresses.Microsoft uses industry standard _______________ dynamic routing protocol to exchange routes between your on-premises network, your instances in Azure, and Microsoft public addresses.
